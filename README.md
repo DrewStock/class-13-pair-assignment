@@ -1,2 +1,3 @@
 # class-13-pair-assignment
-[My Blog on Heroku] (https://drews-cf-blog.herokuapp.com/)
+[My Blog on Heroku] (https://drews-cf-blog.herokuapp.com)
+Stretch Goal --> [My Blog at custom URL] (https://www.noobeepoo.com)
